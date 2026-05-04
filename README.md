@@ -8,19 +8,19 @@ Last updated: **2026-05-03**
 
 ---
 
-## 🟢 Now — Q2 2026
+## Now — Q2 2026
 
 ### Shipping or shipped this quarter
 
-- ✅ **Polyglot SDKs** — PHP, Python, Go (in addition to JS / React)
-- ✅ **OpenAPI 3.1 spec** published as standalone repo
-- ✅ **MCP server** — `@liqaa/mcp` for AI-agent integration
-- ✅ **Public changelog** repo with RSS-friendly releases
-- 🔄 **Recording API GA** — currently beta, full launch by end of Q2
-- 🔄 **Status page on dedicated subdomain** (`status.liqaa.io`)
-- 🔄 **`security.txt`** + bug bounty program (via [HackerOne](https://hackerone.com))
+- **Polyglot SDKs** — PHP, Python, Go (in addition to JS / React)
+- **OpenAPI 3.1 spec** published as standalone repo
+- **MCP server** — `@liqaa/mcp` for AI-agent integration
+- **Public changelog** repo with RSS-friendly releases
+- **Recording API GA** — currently beta, full launch by end of Q2
+- **Status page on dedicated subdomain** (`status.liqaa.io`)
+- **`security.txt`** + bug bounty program (via [HackerOne](https://hackerone.com))
 
-## 🔵 Next — Q3 2026
+## Next — Q3 2026
 
 ### High-confidence shipments
 
@@ -34,7 +34,7 @@ Last updated: **2026-05-03**
 - **CLI** — `liqaa rooms list`, `liqaa logs tail`, etc.
 - **Console v2** — usage analytics, retention cohorts, plan usage forecasts
 
-## 🟣 Later — Q4 2026
+## Later — Q4 2026
 
 ### Intent, not commitment
 
@@ -47,7 +47,7 @@ Last updated: **2026-05-03**
 - **In-call AI** — note-taker, action items, smart summaries (opt-in)
 - **WebHooks v2** — gRPC-streaming alternative to HTTP for high-fanout
 
-## 🌌 Horizon — 2027
+## Horizon — 2027
 
 ### Where we're heading
 
@@ -64,7 +64,7 @@ Last updated: **2026-05-03**
 Want to push something up the priority list?
 
 1. **Open an issue** on [hartemyaakoub/liqaa-js](https://github.com/hartemyaakoub/liqaa-js/issues) with the `roadmap` label.
-2. **Upvote** existing issues with 👍 — we look at top-voted weekly.
+2. **Upvote** existing issues with — we look at top-voted weekly.
 3. **Email** [partners@tkawen.com](mailto:partners@tkawen.com) for enterprise-blocker requests with concrete contract value attached.
 
 ## Out of scope
